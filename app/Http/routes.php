@@ -46,7 +46,7 @@ Route::get('contato', function(){
 });
 
 // Enviar usando method post
-Route::post('send', 'PagesController@sendContact');
+Route::post('/', 'PagesController@sendContact');
 
 
 

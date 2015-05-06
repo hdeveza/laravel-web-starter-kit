@@ -42,8 +42,7 @@ public function services() {
 
 public function sendContact() {
 
-  return 'Olá Mundo';
-
+  
   } // form Contact
 
 
