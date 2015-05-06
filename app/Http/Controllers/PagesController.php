@@ -42,7 +42,7 @@ public function services() {
 
 public function sendContact() {
 
-
+  return 'Olá';
 
   } // form Contact
 
